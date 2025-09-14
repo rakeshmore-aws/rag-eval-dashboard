@@ -1,0 +1,71 @@
+﻿query,ground_truth,relevant_docs
+What actuarial value do ACA Bronze plans typically cover?,Approximately 60% actuarial value.,D1
+Are preventive services covered before meeting the deductible on ACA Bronze plans?,"Yes,  in-network preventive services are covered at 100% without meeting the deductible.",D1
+What is the typical individual deductible range for ACA Bronze plans?,About $6 000 to $8700.,D1
+ Do HMO plans require preauthorization for MRI scans?,"Yes, many HMO plans require prior authorization for MRI.",D2
+ what is the risk? If preauthorization is not obtained for an MRI in an HMO,Denial of coverage or reduced reimbursement.,D2
+ what does the plan pay for covered services? After reaching the in-network OOP maximum in a PPO,100% of allowed charges.,D3
+Are out-of-network services subject to a separate out-of-pocket maximum?,Yes  out-of-network may have a separate OOP maximum.,D3
+At what cost share are medically necessary DME items covered in a standard PPO after deductible?,Typically 80% after the deductible.,D4
+Are cosmetic or convenience items considered covered DME?,No  cosmetic or convenience items are excluded.,D4
+Do telehealth primary care visits usually have the same cost sharing as in-person visits?,Yes  telehealth cost sharing typically mirrors in-person cost sharing.,D5
+Can mental health tele-visits have waived cost sharing?,Yes  some plans waive cost sharing for mental health tele-visits.,D5
+How long does an employee have to elect COBRA continuation coverage?,60 days from the qualifying event or notice.,D6
+Is COBRA coverage retroactive if elected within the window and premiums are paid?,Yes  COBRA is retroactive if elected timely and premiums are paid.,D6
+What are the 2024 minimum deductibles to qualify an HDHP for HSA contributions?,Individual $1600 and Family $3200.,D7
+What are the 2024 HSA contribution limits for individuals and families?,Individual $4150 and Family $8300 (with $1000 catch-up).,D7
+Which plan typically pays primary when coordinating benefits: employer group or individual?,The employer group plan typically pays primary.,D8
+What is the birthday rule used for in coordination of benefits?,To determine primary coverage for dependents.,D8
+What risks exist for out-of-network mental health care compared to in-network?,Higher coinsurance and balance billing risk.,D9
+Are emergencies covered in the ER regardless of location under the prudent layperson standard?,Yes  emergency ER services are covered regardless of location.,D10
+Is urgent care out-of-state covered in-network if the center is contracted?,Yes  if using a contracted urgent care center.,D10
+What are the elements required for a valid contract?,Offer  acceptance  and consideration.,D11
+Is past consideration valid consideration?,No  past consideration is typically invalid.,D11
+Name a category of contracts requiring a writing under the Statute of Frauds.,Real estate transfers (also >1-year agreements  surety).,D12
+What are the elements of negligence?,Duty  breach  and damages.,D13
+How does comparative negligence affect recovery?,It reduces recovery proportionally to the plaintiff's fault.,D13
+Under UCC §2-205  how long can a merchant’s firm offer be irrevocable? ,For the stated time or a reasonable time  not exceeding three months.,D14
+Give two hearsay exceptions.,Present sense impression and excited utterance (also business records).,D15
+Name two exceptions to the warrant requirement.,Exigent circumstances and consent (also SITA  plain view).,D16
+List two factors that may justify piercing the corporate veil.,Undercapitalization and commingling of assets (also lack of formalities  fraud/injustice).,D17
+What defines a trade secret?,Information with economic value from secrecy and reasonable secrecy measures.,D18
+What is the default employment relationship in most U.S. states?,Employment at-will. ,D19
+What do expectation damages aim to provide?,The benefit of the bargain—put the non-breaching party in the position as if performed.,D20
+What blood pressure defines Stage 1 hypertension according to ACC/AHA?,SBP 130–139 mmHg or DBP 80–89 mmHg.,D21
+What A1c value supports a diagnosis of diabetes?,A1c  6.5%. ,D22
+Name two initial medications for outpatient community-acquired pneumonia in otherwise healthy adults.,Amoxicillin or doxycycline.,D24
+Which initial long-acting inhaler classes are used for stable COPD?,LAMA or LABA.,D23
+At what ages is Shingrix recommended?,For adults aged 50 years.,D25
+Give examples of high-intensity statin doses.,Atorvastatin 40–80 mg or rosuvastatin 20–40 mg.,D26
+At what CHA2DS2-VASc scores is anticoagulation generally recommended?,Men 2 and women 3.,D27
+List two key steps in early sepsis management.,Early broad-spectrum antibiotics and fluid resuscitation (also lactate and cultures).,D28
+What is the recommended approach to prescribing opioids for acute pain?,Use the lowest effective dose for the shortest duration; consider non-opioids first.,D29
+Which lab findings suggest iron deficiency anemia?,Low ferritin  low transferrin saturation  and high TIBC.,D30
+Cross-domain: If an HMO requires MRI preauth how might this interact with ER emergencies under prudent layperson standard?,ER emergencies are covered regardless of location and may be exempt from preauth; prudent layperson standard protects coverage.,"D2, D10"
+Cross-domain: After reaching in-network OOPM in PPOs  how do parity protections influence mental health coverage?,After OOPM  covered services are paid at 100%; parity ensures behavioral health cost sharing is not more restrictive than medical/surgical.,"D3, D9"
+Cross-domain: How does COBRA election timing affect continuity of chronic care like COPD inhaler therapy?,Timely COBRA election (within 60 days) allows retroactive coverage continuity  supporting uninterrupted COPD medications.,"D6,D23"
+Cross-domain: For a patient starting high-intensity statins  how might telehealth policy impact follow-up?,Telehealth follow-ups often mirror in-person cost sharing; some mental health visits may be $0  easing adherence support.,"D26,D5"
+Cross-domain: How do UCC firm offer rules affect procurement of DME items?,A merchant’s signed firm offer can hold pricing for up to three months  aiding DME procurement negotiations.,"D14,D4"
+Long-tail: What is the 2024 individual OOP maximum example provided?,"$9,450 ",D3
+Long-tail: What is the family OOP maximum example given for 2024?,"$18,900 ",D3
+Long-tail: What 2024 HSA contribution catch-up is allowed?,$1000 catch-up.,D7
+Long-tail: What policy reference code is given for HMO imaging preauthorization?,HMO-IMG-PA-2024.,D2
+Long-tail: What is the effective date listed for the ACA Bronze plan summary?,2024-01-01.,D1
+In COBRA coverage  is premium payment required for retroactive activation?,Yes  premiums must be paid timely to activate retroactive COBRA coverage.,D6
+Does the birthday rule apply to determine primary coverage for dependents?,Yes  it helps determine which parent’s plan pays primary.,D8
+Are out-of-network behavioral health services subject to balance billing risks?,Yes  out-of-network services may involve balance billing.,D9
+Is partial performance an exception to the Statute of Frauds for real estate?,Yes  partial performance can remove the writing requirement.,D12
+Does the plain view doctrine allow seizure without a warrant?,Yes  if officers are lawfully present and the item’s incriminating nature is immediately apparent.,D16
+Can nominal consideration support a contract?,In some jurisdictions  yes  nominal consideration can suffice.,D11
+Do employment at-will exceptions vary by state?,Yes  exceptions like public policy and implied contract vary by state.,D19
+What duty do non-breaching parties have regarding expectation damages?,They have a duty to mitigate damages.,D20
+Is doxycycline a first-line option for healthy adults with outpatient CAP?,Yes  doxycycline is a first-line option.,D24
+Is Shingrix recommended regardless of prior shingles history?,Yes  Shingrix is recommended regardless of prior vaccine or shingles history.,D25
+Name two examples of reasonable secrecy measures for trade secrets.,Access controls and NDAs.,D18
+What blood glucose criteria besides A1c can diagnose diabetes? ,FGM 126 mg/dL  2-hr OGTT 200 mg/dL  or random 200 with symptoms.,D22
+What are two risks of out-of-network mental health care?,Higher coinsurance and balance billing.,D9
+Is preventive care always covered at 100% out-of-network for ACA Bronze?,No  out-of-network preventive care may not be covered at 100%. ,D1
+What happens to plan payment after meeting the out-of-pocket maximum?,The plan pays 100% of allowed charges for covered in-network services.,D3
+What inhaler escalation is recommended if COPD symptoms persist on monotherapy?,Escalate to dual long-acting bronchodilator therapy.,D23
+Name two early sepsis tasks before antibiotics, fluids have begun. Measure lactate and obtain blood cultures.,D28
+Should naloxone be co-prescribed for high-risk opioid patients?,Yes  co-prescribe naloxone for high-risk patients.,D29

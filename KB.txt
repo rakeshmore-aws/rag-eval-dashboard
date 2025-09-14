@@ -1,0 +1,280 @@
+[DOCUMENT ID: D1]
+Domain: Insurance
+Title: ACA Bronze Plan Cost-Sharing
+Summary: ACA Bronze metal-tier plans typically cover about 60% of the actuarial value. Members often face deductibles between $6,000 and $8,700 for individuals. Preventive services are covered at 100% when in network, without needing to meet the deductible.
+Key Points:
+- Actuarial value: ~60%
+- Preventive care: covered at 100% in-network
+- Typical individual deductible: $6,000–$8,700
+Exceptions:
+- Out-of-network preventive care may not be covered at 100%.
+- Some plans use copays for primary care after deductible.
+Effective Date: 2024-01-01
+
+[DOCUMENT ID: D2]
+Domain: Insurance
+Title: Preauthorization Rules for MRI in HMO Plans
+Summary: Many HMO plans require prior authorization for advanced imaging like MRI, CT, and PET scans. Failure to obtain preauthorization may lead to denial or lower out-of-network reimbursement.
+Key Points:
+- Preauthorization required for MRI in HMO
+- Applies to CT/PET as well
+- Denial risk if not obtained
+Exclusions:
+- Emergency inpatient imaging may be exempt.
+Policy Ref: HMO-IMG-PA-2024
+
+[DOCUMENT ID: D3]
+Domain: Insurance
+Title: Out-of-Pocket Maximums in PPO Plans
+Summary: PPO plans cap a member’s in-network cost sharing at an out-of-pocket maximum (OOPM), after which the plan pays 100% of allowed charges for covered services.
+Key Points:
+- OOPM applies to in-network services
+- After OOPM: plan pays 100%
+- Separate OOPM may apply out-of-network
+2024 OOPM Examples:
+- Individual: $9,450
+- Family: $18,900
+
+[DOCUMENT ID: D4]
+Domain: Insurance
+Title: Durable Medical Equipment (DME) Coverage
+Summary: Standard PPOs cover medically necessary DME at 80% after deductible; rental up to purchase price. Common items include CPAP, wheelchairs, and glucose monitors.
+Key Points:
+- 80% after deductible
+- Rental up to purchase price
+- Medical necessity required
+Limitations:
+- Cosmetic or convenience items excluded
+
+[DOCUMENT ID: D5]
+Domain: Insurance
+Title: Telehealth Visit Cost Sharing
+Summary: Telehealth primary care visits typically mirror in-person cost sharing; some plans waive cost sharing for mental health tele-visits to improve access.
+Key Points:
+- Telehealth cost sharing ≈ in-person
+- Mental health tele-visits may be $0
+Effective Period: 2024
+
+[DOCUMENT ID: D6]
+Domain: Insurance
+Title: COBRA Continuation Coverage Window
+Summary: Eligible employees have 60 days from the qualifying event or notice to elect COBRA. Coverage is retroactive if elected timely and premiums are paid.
+Key Points:
+- 60-day election period
+- Retroactive coverage
+- Premiums must be paid timely
+Reference: COBRA-2024-Guide
+
+[DOCUMENT ID: D7]
+Domain: Insurance
+Title: HSA Eligibility and HDHP Requirements
+Summary: To contribute to an HSA, members must be enrolled in a qualified HDHP and have no disqualifying coverage. 2024 minimum deductible thresholds apply.
+Key Points:
+- Must have qualified HDHP
+- No other first-dollar coverage
+- 2024 min deductible: Individual $1,600; Family $3,200
+Contribution Limits 2024:
+- Individual $4,150; Family $8,300; Catch-up $1,000
+
+[DOCUMENT ID: D8]
+Domain: Insurance
+Title: Coordination of Benefits (COB) Order of Payers
+Summary: When a member has multiple plans, COB rules determine primary and secondary payers. Employer group plan typically pays primary over individual plan.
+Key Points:
+- Employer plan primary over individual plan
+- Birthday rule for dependents
+- Medicare coordination rules vary by employer size
+Note: Incorrect COB can delay claims.
+
+[DOCUMENT ID: D9]
+Domain: Insurance
+Title: In-Network vs Out-of-Network Mental Health
+Summary: In-network behavioral health often has lower copays and protections under MHPAEA parity; out-of-network may have higher coinsurance and balance billing risk.
+Key Points:
+- Parity protections apply
+- OON: higher coinsurance + balance billing risk
+- Preauth may be required for intensive programs
+
+[DOCUMENT ID: D10]
+Domain: Insurance
+Title: Travel Urgent Care Coverage
+Summary: Urgent care received outside home state is covered as in-network if using a contracted urgent care center; ER services covered for emergencies per prudent layperson standard.
+Key Points:
+- OOS urgent care covered if contracted
+- ER emergencies covered regardless of location
+
+[DOCUMENT ID: D11]
+Domain: Legal
+Title: Contract Consideration Basics
+Summary: A valid contract generally requires offer, acceptance, and consideration. Consideration is a bargained-for exchange; past consideration is typically invalid.
+Key Points:
+- Offer, acceptance, consideration
+- Past consideration not valid
+- Nominal consideration can suffice in some jurisdictions
+
+[DOCUMENT ID: D12]
+Domain: Legal
+Title: Statute of Frauds Categories
+Summary: Certain contracts must be in writing to be enforceable, including real estate transfers, agreements not performable within one year, and surety agreements.
+Key Points:
+- Real estate transfers
+- >1-year performance
+- Suretyship
+Exceptions:
+- Partial performance for real estate
+
+[DOCUMENT ID: D13]
+Domain: Legal
+Title: Negligence Elements
+Summary: Negligence requires duty, breach, causation (actual and proximate), and damages. Comparative negligence may reduce recovery proportionally.
+Key Points:
+- Duty, breach, causation, damages
+- Comparative negligence reduces recovery
+- Proximate cause uses foreseeability tests
+
+[DOCUMENT ID: D14]
+Domain: Legal
+Title: UCC Article 2 — Firm Offers
+Summary: Under UCC §2-205, a merchant’s signed writing with assurance to hold an offer open is irrevocable for the time stated or a reasonable time, not exceeding three months.
+Key Points:
+- Merchant’s firm offers in writing
+- No consideration required
+- Max three months
+
+[DOCUMENT ID: D15]
+Domain: Legal
+Title: Hearsay and Exceptions
+Summary: Hearsay is an out-of-court statement offered for the truth of the matter asserted. Exceptions include present sense impression, excited utterance, and business records.
+Key Points:
+- Hearsay definition
+- Key exceptions: PSI, EU, business records
+
+[DOCUMENT ID: D16]
+Domain: Legal
+Title: Fourth Amendment — Warrant Requirement
+Summary: Searches generally require a warrant, subject to exceptions such as exigent circumstances, consent, search incident to arrest, and plain view.
+Key Points:
+- Warrant default
+- Exigent, consent, SITA, plain view exceptions
+
+[DOCUMENT ID: D17]
+Domain: Legal
+Title: Corporate Veil Piercing Factors
+Summary: Courts may pierce the corporate veil for undercapitalization, failure to observe formalities, commingling of assets, and fraud or injustice.
+Key Points:
+- Undercapitalization
+- No formalities
+- Commingling
+- Fraud/injustice
+
+[DOCUMENT ID: D18]
+Domain: Legal
+Title: Intellectual Property — Trade Secret
+Summary: A trade secret derives independent economic value from not being generally known and is subject to reasonable efforts to maintain secrecy.
+Key Points:
+- Economic value from secrecy
+- Reasonable secrecy measures
+- Misappropriation remedies
+
+[DOCUMENT ID: D19]
+Domain: Legal
+Title: Employment — At-Will Presumption
+Summary: Employment is presumed at-will unless modified by contract or statute. Exceptions include public policy, implied contract, and covenant of good faith in some states.
+Key Points:
+- At-will baseline
+- Recognized exceptions vary by state
+
+[DOCUMENT ID: D20]
+Domain: Legal
+Title: Remedies — Expectation Damages
+Summary: Expectation damages aim to place the non-breaching party in the position they would have been in had the contract been performed, subject to mitigation and foreseeability.
+Key Points:
+- Benefit of the bargain
+- Duty to mitigate
+- Hadley foreseeability
+
+[DOCUMENT ID: D21]
+Domain: Healthcare
+Title: Hypertension Classification (ACC/AHA)
+Summary: ACC/AHA classifies Stage 1 hypertension at SBP 130–139 mmHg or DBP 80–89 mmHg; Stage 2 at SBP ≥140 or DBP ≥90. Lifestyle modification is first-line for Stage 1.
+Key Points:
+- Stage 1: 130–139/80–89
+- Stage 2: ≥140/≥90
+- Lifestyle first-line for Stage 1
+
+[DOCUMENT ID: D22]
+Domain: Healthcare
+Title: Type 2 Diabetes Diagnostic Criteria (ADA)
+Summary: Diagnosis by A1c ≥6.5%, fasting plasma glucose ≥126 mg/dL, 2-hr OGTT ≥200 mg/dL, or random glucose ≥200 mg/dL with symptoms.
+Key Points:
+- A1c ≥6.5%
+- FPG ≥126
+- 2-hr OGTT ≥200
+- Random ≥200 + symptoms
+
+[DOCUMENT ID: D23]
+Domain: Healthcare
+Title: COPD Inhaler Therapy
+Summary: Initial therapy for stable COPD often includes long-acting bronchodilators (LAMA or LABA); combination therapy for persistent symptoms.
+Key Points:
+- Start LAMA or LABA
+- Escalate to dual therapy
+- Inhaled steroids for frequent exacerbations
+
+[DOCUMENT ID: D24]
+Domain: Healthcare
+Title: Community-Acquired Pneumonia (CAP) Outpatient Treatment
+Summary: For otherwise healthy adults, amoxicillin or doxycycline are first-line; macrolides considered if local resistance is low.
+Key Points:
+- Amoxicillin or doxycycline
+- Consider macrolide if resistance low
+
+[DOCUMENT ID: D25]
+Domain: Healthcare
+Title: Vaccination — Shingles (Recombinant Zoster)
+Summary: Shingrix is recommended for adults ≥50 years, two doses 2–6 months apart, regardless of prior zoster vaccine or shingles history.
+Key Points:
+- Age ≥50
+- 2 doses, 2–6 months apart
+
+[DOCUMENT ID: D26]
+Domain: Healthcare
+Title: Statin Intensity Categories
+Summary: High-intensity statins lower LDL-C by ≥50% (e.g., atorvastatin 40–80 mg, rosuvastatin 20–40 mg). Moderate intensity lowers 30–49%.
+Key Points:
+- High-intensity examples: atorva 40–80, rosuva 20–40
+- Moderate: 30–49% LDL reduction
+
+[DOCUMENT ID: D27]
+Domain: Healthcare
+Title: Anticoagulation — CHA2DS2-VASc
+Summary: Stroke risk stratification in AF uses CHA2DS2-VASc; anticoagulation recommended for most men with score ≥2, women ≥3.
+Key Points:
+- Score thresholds: men ≥2, women ≥3
+- Use DOACs unless contraindicated
+
+[DOCUMENT ID: D28]
+Domain: Healthcare
+Title: Sepsis Early Management Bundle
+Summary: Within 1–3 hours: measure lactate, obtain blood cultures, administer broad-spectrum antibiotics, begin fluid resuscitation for hypotension or elevated lactate.
+Key Points:
+- Lactate, cultures, antibiotics, fluids
+- Early goal-directed principles
+
+[DOCUMENT ID: D29]
+Domain: Healthcare
+Title: Opioid Prescribing — Acute Pain
+Summary: Use the lowest effective dose for the shortest duration; consider non-opioids first. Co-prescribe naloxone for high-risk patients.
+Key Points:
+- Lowest effective dose
+- Short duration
+- Consider naloxone
+
+[DOCUMENT ID: D30]
+Domain: Healthcare
+Title: Anemia — Iron Deficiency Workup
+Summary: Iron deficiency shows low ferritin, low transferrin saturation, high TIBC; treat with oral iron and address bleeding sources.
+Key Points:
+- Low ferritin
+- High TIBC
+- Oral iron therapy
